@@ -44,6 +44,15 @@ Absolutely! All apps/software downloaded via this app are from trusted official 
 ### How much does it cost?
 Completely free! If you like it, you can donate ❤️
 
+### System Requirements
+- Windows 10 1809 (17763) or later
+- 250 MB of available RAM
+- 500 MB of available disk space (250 MB minimum)
+
+### MacOS/Linux support?
+
+Currently, we do not support MacOS and Linux. Plan to support it is coming in later updates.
+
 ### Where do I download it?
 The app is releasing soon, be sure to Watch the repository for when it releases!
 
