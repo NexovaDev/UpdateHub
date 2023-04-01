@@ -1,4 +1,5 @@
 # UpdateHub
+<img src="https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/logo.png" width="128" />
 
 > # Coming Soon!
 
