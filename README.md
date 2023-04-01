@@ -1,6 +1,6 @@
 # UpdateHub
 
-> ### Coming Soon!
+> # Coming Soon!
 
 ### What is it?
 
