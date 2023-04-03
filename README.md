@@ -2,8 +2,6 @@
 	<img src="https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/header.png" width="640" />
 </div>
 
-> # Coming Soon!
-
 ### What is it?
 
 UpdateHub is a user-friendly application designed to streamline the software update process for your computer or mobile device. With this app, you can quickly check for updates for all the software installed on your device, including operating systems and applications. The app's straightforward interface displays all available updates and lets you choose which ones to install, making the updating process quick and convenient.
@@ -47,7 +45,7 @@ Absolutely! All apps/software downloaded via this app are from trusted official 
 Completely free! If you like it, you can donate ❤️
 
 ### System Requirements
-- Windows 10 1809 (17763) or later
+- Windows 10 1809 (17763) 64-bit or later
 - 250 MB of available RAM
 - 500 MB of available disk space (250 MB minimum)
 
@@ -56,7 +54,7 @@ Completely free! If you like it, you can donate ❤️
 Currently, we do not support MacOS and Linux. Plan to support it is coming in later updates.
 
 ### Where do I download it?
-The app is releasing soon, be sure to Watch the repository for when it releases!
+You can download it [here](https://github.com/KK-Designs/UpdateHub/releases/latest "Download latest version") for free.
 
 <!--
 UpdateHub is a user-friendly application designed to streamline the software update process for your computer or mobile device. With this app, you can quickly check for updates for all the software installed on your device, including operating systems and applications. The app's straightforward interface displays all available updates and lets you choose which ones to install, making the updating process quick and convenient.
