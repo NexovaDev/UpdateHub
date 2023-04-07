@@ -30,7 +30,7 @@ Additionally, the app provides detailed information about each update, including
 ### What makes this unique or better than others?
 UpdateHub doesn't just update apps. It can also update apps from the Microsoft Store and the whole operating system.
 \
-It's also better than most other similar applications like this too. Here's a comparison between our app and IObit's solution:
+It's also better than most other similar applications like this too. Here's a comparison between our app and IObit's solution. Look at how many more updates out app detects than the other:
 UpdateHub             |  IObit
 :-------------------------:|:-------------------------:
 ![UpdateHub](https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/UpdateHub.png)  |  ![IObit](https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/IObit.png)
