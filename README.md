@@ -8,17 +8,19 @@ UpdateHub is a user-friendly application designed to streamline the software upd
 
 ### Why is it important?
 
-Outdated applications can bring unwanted security threats. Take, for example, Git. On February 25, 2023, Git faced multiple vulnerabilities. These included the following:
+Outdated applications can bring unwanted security threats. Take, for example, Chrome. On April 21, 2023, Google Chrome faced multiple vulnerabilities. These included the following:
 
-> - CVE-2023-22490 [Moderate]: Local clone-based data exfiltration with non-local transports
-> - CVE-2023-23946 [High]: "git apply" overwriting paths outside the working tree
-> 
-> - (Windows only) - CVE-2023-22743 [High]: Git for Windows installer is susceptible to DLL side loading attacks
-> - (Windows only) - CVE-2023-23618 [High]: gitk can inadvertently call executables in the work tree
+> **[21 April 2023]** Google Chrome (Desktop) - Zero-Day Vulnerability
 
-To fix this, you had to update to the latest version. But Git never tells you this; our app will.
+> NIST: https://nvd.nist.gov/vuln/detail/CVE-2023-2033
+> Type confusion in V8 in Google Chrome before 112.0.5615.121 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+
+> Google Blog: https://chromereleases.googleblog.com/2023/04/stable-channel-update-for-desktop_14.html
+> Google is aware that an exploit for CVE-2023-2033 exists in the wild.
+
+To fix this, you had to update to the latest version. But Google Chrome may not tell you this; our app will.
 \
-You can also get new features and bug fixes in apps, making your system potentially faster and better.
+You can also get new features and bug fixes in apps and keep your OS and some drivers up-to-date, making your system potentially faster and better.
 \
 UpdateHub ensures that your device's software is up-to-date and secure, making updating as hassle-free as possible.
 
@@ -30,7 +32,7 @@ Additionally, the app provides detailed information about each update, including
 ### What makes this unique or better than others?
 UpdateHub doesn't just update apps. It can also update apps from the Microsoft Store and the whole operating system.
 \
-It's also better than most other similar applications like this too. Here's a comparison between our app and IObit's solution. Look at how many more updates out app detects than the other:
+It's also better than most other similar applications like this too. Here's a comparison between our app and IObit's solution. Look at how many more updates our app detects than the others:
 UpdateHub             |  IObit
 :-------------------------:|:-------------------------:
 ![UpdateHub](https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/UpdateHub.png)  |  ![IObit](https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/IObit.png)
@@ -42,7 +44,7 @@ In later updates, it will be able to keep your code dependencies up-to-date if y
 Absolutely! All apps/software downloaded via this app are from trusted official sources. Windows Defender also scans them and verifies the security hash for every app downloaded to prevent unauthorized changes.
 
 ### How much does it cost?
-Completely free! If you like it, you can donate ❤️
+Completely free! If you like it, you can [donate](https://www.paypal.com/donate/?hosted_button_id=SRVM3LAZ3WBL8 "Donate") ❤️
 
 ### System Requirements
 - Windows 10 1809 (17763) 64-bit or later
@@ -51,7 +53,7 @@ Completely free! If you like it, you can donate ❤️
 
 ### MacOS/Linux support?
 
-Currently, we do not support MacOS and Linux. Plan to support it is coming in later updates.
+Currently, we do not support MacOS and Linux. A plan to support it is coming in later updates.
 
 ### Where do I download it?
 You can download it [here](https://github.com/KK-Designs/UpdateHub/releases/latest "Download latest version") for free.
