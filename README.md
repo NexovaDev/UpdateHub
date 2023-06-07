@@ -11,13 +11,13 @@ UpdateHub is a user-friendly application designed to streamline the software upd
 Outdated applications can bring unwanted security threats. Take, for example, Chrome. On April 21, 2023, Google Chrome faced multiple vulnerabilities. These included the following:
 
 > **[21 April 2023]** Google Chrome (Desktop) - Zero-Day Vulnerability
-
+>
 > NIST: https://nvd.nist.gov/vuln/detail/CVE-2023-2033
 > Type confusion in V8 in Google Chrome before 112.0.5615.121 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
-
+>
 > Google Blog: https://chromereleases.googleblog.com/2023/04/stable-channel-update-for-desktop_14.html
 > Google is aware that an exploit for CVE-2023-2033 exists in the wild.
-
+>
 To fix this, you had to update to the latest version. But Google Chrome may not tell you this; our app will.
 \
 You can also get new features and bug fixes in apps and keep your OS and some drivers up-to-date, making your system potentially faster and better.
@@ -50,6 +50,12 @@ Completely free! If you like it, you can [donate](https://www.paypal.com/donate/
 - Windows 10 1809 (17763) 64-bit or later
 - 250 MB of available RAM
 - 500 MB of available disk space (250 MB minimum)
+
+<h5>You probably already have these, but incase you don't here</h5>
+<ul>
+	<li><h5>Winget v1.4.10173 or later (older versions may work but you won't get the best and most stable experience)</h5></li>
+	<li><h5>Powershell 5.1 or later</h5></li>
+</ul>
 
 ### MacOS/Linux support?
 
