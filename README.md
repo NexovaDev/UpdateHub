@@ -53,7 +53,7 @@ Completely free! If you like it, you can [donate](https://www.paypal.com/donate/
 
 <h5>You probably already have these, but in case you don't here</h5>
 <ul>
-	<li><h5>Winget v1.4.10173 or later (older versions may work but you won't get the best and most stable experience)</h5></li>
+	<li><h5>Winget v1.4.11071 or later
 	<li><h5>Powershell 5.1 or later</h5></li>
 </ul>
 
