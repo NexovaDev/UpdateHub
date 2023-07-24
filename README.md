@@ -2,6 +2,8 @@
 	<img src="https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/header.png" width="640" />
 </div>
 
+> ℹ️ **NOTE:** Currently, the app does not work if your system language isn't set to English. Please temporarily change it to English while we work on a fix.
+
 ### What is it?
 
 UpdateHub is a user-friendly application designed to streamline the software update process for your computer or mobile device. With this app, you can quickly check for updates for all the software installed on your device, including operating systems and applications. The app's straightforward interface displays all available updates and lets you choose which ones to install, making the updating process quick and convenient.
@@ -13,7 +15,7 @@ Outdated applications can bring unwanted security threats. Take, for example, Ch
 > **[21 April 2023]** Google Chrome (Desktop) - Zero-Day Vulnerability
 >
 > NIST: https://nvd.nist.gov/vuln/detail/CVE-2023-2033
-> Type confusion in V8 in Google Chrome before 112.0.5615.121 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+> Type confusion in V8 in Google Chrome before 112.0.5615.121 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: **High**)
 >
 > Google Blog: https://chromereleases.googleblog.com/2023/04/stable-channel-update-for-desktop_14.html
 > Google is aware that an exploit for CVE-2023-2033 exists in the wild.
@@ -33,9 +35,9 @@ Additionally, the app provides detailed information about each update, including
 UpdateHub doesn't just update apps. It can also update apps from the Microsoft Store and the whole operating system.
 \
 It's also better than most other similar applications like this too. Here's a comparison between our app and IObit's solution. Look at how many more updates our app detects than the others:
-UpdateHub             |  IObit
+UpdateHub (Detected 23 updates)            |  IObit (Detected 4 updates)
 :-------------------------:|:-------------------------:
-![UpdateHub](https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/UpdateHub.png)  |  ![IObit](https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/IObit.png)
+![UpdateHub (Detected 23 updates)](https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/UpdateHub.png)  |  ![IObit (Detected 4 updates)](https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/IObit.png)
 
 \
 In later updates, it will be able to keep your code dependencies up-to-date if you're a programmer and will allow you to keep custom files up-to-date with the specified source.
