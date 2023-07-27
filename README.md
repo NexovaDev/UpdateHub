@@ -2,6 +2,14 @@
 	<img src="https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/header.png" width="640" />
 </div>
 
+<h3>
+	<div align="center">
+		<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/KK-Designs/UpdateHub/total?style=for-the-badge&color=0e8bff&link=https%3A%2F%2Fgithub.com%2FKK-Designs%2FUpdateHub%2Freleases%2Flatest">
+		<img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/KK-Designs/UpdateHub?style=for-the-badge&color=%233fb950&link=https%3A%2F%2Fgithub.com%2FKK-Designs%2FUpdateHub%2Freleases%2Flatest">
+		<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KK-Designs/UpdateHub?style=for-the-badge&color=%23e3b341">
+	</div>
+</h3>
+
 ### What is it?
 
 UpdateHub is a user-friendly application designed to streamline the software update process for your computer or mobile device. With this app, you can quickly check for updates for all the software installed on your device, including operating systems and applications. The app's straightforward interface displays all available updates and lets you choose which ones to install, making the updating process quick and convenient.
@@ -62,7 +70,7 @@ Completely free! If you like it, you can [donate](https://www.paypal.com/donate/
 Currently, we do not support MacOS and Linux. A plan to support it is coming in later updates.
 
 ### Where do I download it?
-You can download it [here](https://github.com/KK-Designs/UpdateHub/releases/latest "Download latest version") for free.
+You can download it for free [here](https://github.com/KK-Designs/UpdateHub/releases/latest "Download latest version").
 
 <!--
 UpdateHub is a user-friendly application designed to streamline the software update process for your computer or mobile device. With this app, you can quickly check for updates for all the software installed on your device, including operating systems and applications. The app's straightforward interface displays all available updates and lets you choose which ones to install, making the updating process quick and convenient.
