@@ -2,8 +2,6 @@
 	<img src="https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/header.png" width="640" />
 </div>
 
-> ℹ️ **NOTE:** Currently, the app does not work if your system language isn't set to English. Please temporarily change it to English while we work on a fix.
-
 ### What is it?
 
 UpdateHub is a user-friendly application designed to streamline the software update process for your computer or mobile device. With this app, you can quickly check for updates for all the software installed on your device, including operating systems and applications. The app's straightforward interface displays all available updates and lets you choose which ones to install, making the updating process quick and convenient.
