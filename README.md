@@ -12,7 +12,7 @@
 
 ### What is it?
 
-UpdateHub is a user-friendly application designed to streamline the software update process for your computer or mobile device. With this app, you can quickly check for updates for all the software installed on your device, including operating systems and applications. The app's straightforward interface displays all available updates and lets you choose which ones to install, making the updating process quick and convenient.
+UpdateHub is a user-friendly application designed to streamline the software update process for your computer. With this app, you can quickly check for updates for all the software installed on your device, including operating systems and applications. The app's straightforward interface displays all available updates and lets you choose which ones to install, making the updating process quick and convenient.
 
 ### Why is it important?
 
