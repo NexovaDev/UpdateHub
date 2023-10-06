@@ -56,13 +56,12 @@ Completely free! If you like it, you can [donate](https://www.paypal.com/donate/
 
 ### System Requirements
 - Windows 10 1809 (17763) 64-bit or later
-- 250 MB of available RAM
-- 500 MB of available disk space (250 MB minimum)
+- 250 MB of available disk space
 
 <h5>You probably already have these, but in case you don't here</h5>
 <ul>
-	<li><h5>Winget v1.4.11071 or later
-	<li><h5>Powershell 5.1 or later</h5></li>
+	<li><h5>WinGet v1.4.11071 or later
+	<li><h5>PowerShell 5.1 or later</h5></li>
 </ul>
 
 ### MacOS/Linux support?
@@ -71,13 +70,3 @@ Currently, we do not support MacOS and Linux. A plan to support it is coming in 
 
 ### Where do I download it?
 You can download it for free [here](https://github.com/KK-Designs/UpdateHub/releases/latest "Download latest version").
-
-<!--
-UpdateHub is a user-friendly application designed to streamline the software update process for your computer or mobile device. With this app, you can quickly check for updates for all the software installed on your device, including operating systems and applications. The app's straightforward interface displays all available updates and lets you choose which ones to install, making the updating process quick and convenient.
-
-The app also features a rollback function. This feature means you can quickly revert to the previous version if you don't like an update or updated by accident.
-
-Additionally, the app provides detailed information about each update, including release notes and version numbers, allowing you to stay informed about the changes and improvements made to your software.
-
-UpdateHub ensures that your device's software is up-to-date and secure, making updating as hassle-free as possible.
--->
