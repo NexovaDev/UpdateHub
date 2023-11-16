@@ -28,7 +28,7 @@ Outdated applications can bring unwanted security threats. Take, for example, Ch
 >
 To fix this, you had to update to the latest version. But Google Chrome may not tell you this; our app will.
 \
-You can also get new features and bug fixes in apps and keep your OS and some drivers up-to-date, making your system potentially faster and better.
+You can also get new features and bug fixes in apps and keep your OS and some drivers up-to-date, potentially improving your system.
 \
 UpdateHub ensures that your device's software is up-to-date and secure, making updating as hassle-free as possible.
 
