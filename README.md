@@ -1,12 +1,12 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/header.png" width="640" />
+	<img src="https://raw.githubusercontent.com/NexovaDev/UpdateHub/main/images/header.png" width="640" />
 </div>
 
 <h3>
 	<div align="center">
-		<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/KK-Designs/UpdateHub/total?style=for-the-badge&color=0e8bff&link=https%3A%2F%2Fgithub.com%2FKK-Designs%2FUpdateHub%2Freleases%2Flatest">
-		<img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/KK-Designs/UpdateHub?style=for-the-badge&color=%233fb950&link=https%3A%2F%2Fgithub.com%2FKK-Designs%2FUpdateHub%2Freleases%2Flatest">
-		<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KK-Designs/UpdateHub?style=for-the-badge&color=%23e3b341">
+		<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/NexovaDev/UpdateHub/total?style=for-the-badge&color=0e8bff&link=https%3A%2F%2Fgithub.com%2FNexovaDev%2FUpdateHub%2Freleases%2Flatest">
+		<img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/NexovaDev/UpdateHub?style=for-the-badge&color=%233fb950&link=https%3A%2F%2Fgithub.com%2FNexovaDev%2FUpdateHub%2Freleases%2Flatest">
+		<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/NexovaDev/UpdateHub?style=for-the-badge&color=%23e3b341">
 	</div>
 </h3>
 
@@ -28,7 +28,7 @@ Outdated applications can bring unwanted security threats. Take, for example, Ch
 >
 To fix this, you had to update to the latest version. But Google Chrome may not tell you this; our app will.
 \
-You can also get new features and bug fixes in apps and keep your OS and some drivers up-to-date, potentially improving your system.
+You can also get new app features and bug fixes and keep your OS and some drivers up-to-date, potentially improving your system.
 \
 UpdateHub ensures that your device's software is up-to-date and secure, making updating as hassle-free as possible.
 
@@ -43,7 +43,7 @@ UpdateHub doesn't just update apps. It can also update apps from the Microsoft S
 It's also better than most other similar applications like this too. Here's a comparison between our app and IObit's solution. Look at how many more updates our app detects than the others:
 UpdateHub (Detected 23 updates)            |  IObit (Detected 4 updates)
 :-------------------------:|:-------------------------:
-![UpdateHub (Detected 23 updates)](https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/UpdateHub.png)  |  ![IObit (Detected 4 updates)](https://raw.githubusercontent.com/KK-Designs/UpdateHub/main/images/IObit.png)
+![UpdateHub (Detected 23 updates)](https://raw.githubusercontent.com/NexovaDev/UpdateHub/main/images/UpdateHub.png)  |  ![IObit (Detected 4 updates)](https://raw.githubusercontent.com/NexovaDev/UpdateHub/main/images/IObit.png)
 
 \
 In later updates, it will be able to keep your code dependencies up-to-date if you're a programmer and will allow you to keep custom files up-to-date with the specified source.
@@ -69,4 +69,4 @@ Completely free! If you like it, you can [donate](https://www.paypal.com/donate/
 Currently, we do not support MacOS and Linux. A plan to support it is coming in later updates.
 
 ### Where do I download it?
-You can download it for free [here](https://github.com/KK-Designs/UpdateHub/releases/latest "Download latest version").
+You can download it for free [here](https://github.com/NexovaDev/UpdateHub/releases/latest "Download latest version").
