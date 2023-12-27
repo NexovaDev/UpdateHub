@@ -69,4 +69,4 @@ Completely free! If you like it, you can [donate](https://www.paypal.com/donate/
 Currently, we do not support MacOS and Linux. A plan to support it is coming in later updates.
 
 ### Where do I download it?
-You can download it for free [here](https://github.com/NexovaDev/UpdateHub/releases/latest "Download latest version").
+You can download it for free [here](https://github.com/NexovaDev/UpdateHub/releases/latest#:~:text=3-,UpdateHub%2Dx64.exe "Download latest version").
