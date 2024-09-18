@@ -10,6 +10,9 @@
 	</div>
 </h3>
 
+> [!IMPORTANT]
+> We're still here! We just got a new digital certificate for our app, so we can finally push new releases. We've got big things planned out for the future, so stay tuned! As for now, we've got a minor update coming out sometime this October, so keep an eye out for that. We're very sorry for disappearing for the last 7 months, but we promise that we'll make up for it with our upcoming new stuff, which will make UpdateHub even more stable and functional. Just a quick note though, these digital certificates cost money, quite a bit more than what we've made. So we'd really appreciate donations, as it keeps our entire company afloat. Thanks for using UpdateHub!
+
 ### What is it?
 
 UpdateHub is a user-friendly application designed to streamline the software update process for your computer. With this app, you can quickly check for updates for all the software installed on your device, including operating systems and applications. The app's straightforward interface displays all available updates and lets you choose which ones to install, making the updating process quick and convenient.
